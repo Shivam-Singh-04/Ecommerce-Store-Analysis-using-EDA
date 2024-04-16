@@ -4,7 +4,9 @@ I'm excited to share an exploratory data analysis (EDA) project I recently compl
 
 
 
-Project Overview: The project involved analyzing a dataset from the e-commerce industry, focusing on customer behavior, sales trends, and product performance. The goal was to uncover meaningful patterns and insights to guide business strategies.
+Project Overview:
+
+The project involved analyzing a dataset from the e-commerce industry, focusing on customer behavior, sales trends, and product performance. The goal was to uncover meaningful patterns and insights to guide business strategies.
 
 
 
@@ -27,11 +29,6 @@ Tools Used:
 - Pandas
 
 - Matplotlib & Seaborn for data visualization
-
-
-
-Check out the whole project here: 
-
 
 
 Key Takeaways:
